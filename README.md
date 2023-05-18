@@ -31,13 +31,13 @@
   </div>
   
 <div>
- <h3>Title:Jobly React</h3>
-  <h3>Go to Web: https://joblyreact.netlify.app](https://jovial-pudding-d60ab1.netlify.app </h3>
+ <h3>Title:Netflix </h3>
+  <h3>Go to Web: https://jovial-pudding-d60ab1.netlify.app </h3>
   <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
              <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
              <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff"/>
     </br>
     </br>
     
-  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/jobly.png](https://github.com/jenny4711/portfolio-site/blob/main/img/projects/netflixC.png)"/>
+  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/netflixC.png"/>
   </div>
