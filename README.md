@@ -64,7 +64,7 @@
     </h3>
     
     
-  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/whattowear.png"/>
+  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/whattowearorg.png"/>
   </div>
   
   
