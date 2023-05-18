@@ -16,5 +16,9 @@
    <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/-PostgreSql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
   </div>
-
+<h2>My Project</h2>
+<div>
+  <h3>Title:Jobly React</h3>
+  <img src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/jobly.png"/>
+  </div>
 
