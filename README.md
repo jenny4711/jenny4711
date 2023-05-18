@@ -19,7 +19,8 @@
 <h2>My Project</h2>
 <div>
   <h3>Title:Jobly React</h3>
-  <h3>Go to Web:https://joblyreact.netlify.app></h3>
+  <h3>Go to Web: https://joblyreact.netlify.app </h3>
+  <h3>Tech- <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
   <img src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/jobly.png"/>
   </div>
 
