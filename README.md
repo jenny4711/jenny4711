@@ -6,10 +6,13 @@
   <h3>Email:jjenny4711@gmail.com</h3>
 </div>
 <h2>My tech stack</2>
+</br>
 <div>
 <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-Javascript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
+  <img src="https://img.shields.io/badge/-Python-F05032?style=for-the-badge&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/-Nodejs=43853d?style=for-the-badge&logo=Node.js&logoColor=white"/>
   </div>
 
 
