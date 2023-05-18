@@ -47,8 +47,8 @@
   <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
              <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
          
-    </br>
-    </br>
+     <br/>
+    <br/>
     
   <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/praiseTypingGameC.png"/>
   </div>
