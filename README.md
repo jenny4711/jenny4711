@@ -18,6 +18,7 @@
    <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/-PostgreSql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
   </div>
+  
 <h2>My Project</h2>
 <div>
   <h3>Title:Jobly React</h3>
@@ -28,4 +29,15 @@
     
   <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/jobly.png"/>
   </div>
-
+  
+<div>
+ <h3>Title:Jobly React</h3>
+  <h3>Go to Web: https://joblyreact.netlify.app](https://jovial-pudding-d60ab1.netlify.app </h3>
+  <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
+             <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
+             <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff"/>
+    </br>
+    </br>
+    
+  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/jobly.png](https://github.com/jenny4711/portfolio-site/blob/main/img/projects/netflixC.png)"/>
+  </div>
