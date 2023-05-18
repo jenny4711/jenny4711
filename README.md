@@ -6,5 +6,5 @@
   <h3>Email:jjenny4711@gmail.com</h3>
 </div>
 <h2>My tech stack</2>
-![HTML5](https://img.shields.io/badge/-HTML-red)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
