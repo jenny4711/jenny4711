@@ -5,7 +5,7 @@
   <h3>Location: New Jersey</h3>
   <h3>Email:jjenny4711@gmail.com</h3>
 </div>
-<h2>My tech stack</2>
+<h2>My Skills</2>
 </br>
 <div>
 <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff"/>
@@ -14,6 +14,7 @@
    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
    <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/-PostgreSql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
   </div>
 
 
