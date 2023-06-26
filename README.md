@@ -31,7 +31,7 @@
   </h3>
     </br>
     
-  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/jobly.png"/>
+  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/jobly.png"/>
   </div>
   
 <div>
@@ -43,7 +43,7 @@
  <h3>
     </br>
     
-  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/netflixC.png"/>
+  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/netflix.png?raw=true"/>
   </div>
 <div>
  <h3>Title:Praise Typing Game </h3>
