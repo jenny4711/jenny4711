@@ -56,16 +56,6 @@
   <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/praiseTypingGameC.png"/>
   </div>
   
-  <div>
- <h3>Title:What To Wear </h3>
-  <h3>Go to Web:  https://capstone1.herokuapp.com </h3>
-  <h3>Tech:   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff"/>
-              <img src="https://img.shields.io/badge/-PostgreSql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
-    </h3>
-    
-    
-  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/projects/whattowearorg.png"/>
-  </div>
-  
+
   
   
