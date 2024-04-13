@@ -36,7 +36,7 @@
   
 <div>
  <h3>Title:Netflix </h3>
-  <h3>Go to Web: https://jovial-pudding-d60ab1.netlify.app </h3>
+  <h3>Go to Web:https://studygpn.netlify.app </h3>
   <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
              <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
              <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff"/>
