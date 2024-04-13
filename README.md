@@ -17,8 +17,8 @@
    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
-   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/-PostgreSql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
+   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=ffffff"/>
+     <img src="https://img.shields.io/badge/-ReatQuery-FF4154?style=for-the-badge&logo=redux&logoColor=ffffff"/>
   </div>
   
 <h2>My Project</h2>
@@ -28,7 +28,7 @@
   <h3>Go to Web:https://studygpn.netlify.app </h3>
   <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
              <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
-            <img src="https://img.shields.io/badge/-ReatQuery-FF4154?style=for-the-badge&logo=redux&logoColor=ffffff"/>
+            <img src="https://img.shields.io/badge/-ReatQuery-FF4154?style=for-the-badge&logo=reatQuery&logoColor=ffffff"/>
  <h3>
     </br>
     
