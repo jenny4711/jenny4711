@@ -36,9 +36,9 @@
   <div>
  <h3>Title:Daymoji</h3>
   <h3>Go to AppStore:https://apps.apple.com/us/app/daymoji-emoji-journal/id6714449611</h3>
-  <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
-             <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
-            <img src="https://img.shields.io/badge/-ReatQuery-FF4154?style=for-the-badge&logo=reatQuery&logoColor=ffffff"/>
+    
+  <h3>Tech:  <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
+       
  <h3>
     </br>
     
