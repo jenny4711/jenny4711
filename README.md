@@ -36,8 +36,10 @@
   <div>
  <h3>Title:Daymoji</h3>
   <h3>Go to AppStore:https://apps.apple.com/us/app/daymoji-emoji-journal/id6714449611</h3>
-    
+    h3>Go to MetaData:https://meta-ft.vercel.app</h3>
   <h3>Tech:  <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/>
+   <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=Firebases&logoColor=ffffff"/>
        
  <h3>
     </br>
@@ -47,5 +49,5 @@
 
   
 
-  
- 
+
+
