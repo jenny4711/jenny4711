@@ -38,9 +38,7 @@
 
  <div>
  <h2>Title:CookTok</h2>
- <a href="https://github.com/jenny4711/CookTok" target="_blank">
-   <h3>REPOSITORY</h3>
- </a>
+
 
  <h3>Tech:   <img src="https://img.shields.io/badge/-swiftui-F05032?style=for-the-badge&logo=swift&logoColor=ffffff"/>
  <h3>
@@ -57,6 +55,16 @@
 <a href="https://youtube.com/shorts/lVpPfzyO9U0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/lVpPfzyO9U0/maxresdefault.jpg" width="400" height="300" alt="CookTok Demo">
 </a>
+
+
+
+<h3>Description</h3>
+
+<p>
+  The CookTokApp helps users manage their groceries with intelligent features. When you're food shopping, you can create a list. Once you've purchased items, clicking on them in the shopping list automatically saves them to your refrigerator inventory. This refrigerator list displays all the ingredients currently in your fridge. To help you keep track, items whose expiration date has passed will automatically turn red.
+
+New Feature: AI-powered recipe recommendations using Google's Gemini AI! Get personalized recipe suggestions based on the ingredients in your refrigerator.
+</p>
 
   </div>
 
