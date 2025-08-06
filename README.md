@@ -38,6 +38,9 @@
 
  <div>
  <h2>Title:CookTok</h2>
+ <a href="https://github.com/jenny4711/CookTok" target="_blank">
+   <h3>REPOSITORY</h3>
+ </a>
 
  <h3>Tech:   <img src="https://img.shields.io/badge/-swiftui-F05032?style=for-the-badge&logo=swift&logoColor=ffffff"/>
  <h3>
