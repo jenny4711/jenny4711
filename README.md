@@ -19,22 +19,8 @@
   
 <h2>My Project</h2>
 
-<div>
- <h3>Title:Netflix </h3>
-  <h3>Go to Web:https://studygpn.netlify.app </h3>
-  <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
-             <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
-            <img src="https://img.shields.io/badge/-ReatQuery-FF4154?style=for-the-badge&logo=reatQuery&logoColor=ffffff"/>
- <h3>
-    </br>
-    
-  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/netflix.png?raw=true"/>
-  </div>
-
-
-
-  <div>
- <h3>Title:Daymoji</h3>
+ <div>
+ <h2>Title:Daymoji</h2>
   <h3>Go to AppStore:https://apps.apple.com/us/app/daymoji-emoji-journal/id6714449611</h3>
     <h3>Go to MetaData:https://meta-ft.vercel.app</h3>
   <h3>Tech:  <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
@@ -47,6 +33,55 @@
     
   <img width='70%' src="https://github.com/jenny4711/meta_ft/blob/main/appstore2.png?raw=true"/>
   </div>
+
+
+
+ <div>
+ <h2>Title:CookTok</h2>
+
+ <h3>Tech:   <img src="https://img.shields.io/badge/-swiftui-F05032?style=for-the-badge&logo=swift&logoColor=ffffff"/>
+ <h3>
+ 
+
+  <img width='70%' src="https://github.com/jenny4711/jenny4711/blob/e88d50a9d38600c6798988a3b0e44e7cbcd48e0f/sample1.png"/>
+
+   
+ ## 🎥 Demo Video
+
+
+*Click the image above to watch the demo video*
+
+<a href="https://youtube.com/shorts/lVpPfzyO9U0" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/lVpPfzyO9U0/maxresdefault.jpg" width="400" height="300" alt="CookTok Demo">
+</a>
+
+  </div>
+
+
+
+
+
+
+
+
+<div>
+ <h2>Title:Netflix </h2>
+  <h3>Go to Web:https://studygpn.netlify.app </h3>
+  <h3>Tech:  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
+             <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff"/>
+            <img src="https://img.shields.io/badge/-ReatQuery-FF4154?style=for-the-badge&logo=reatQuery&logoColor=ffffff"/>
+ <h3>
+    </br>
+    
+  <img width='70%' src="https://github.com/jenny4711/portfolio-site/blob/main/img/netflix.png?raw=true"/>
+  </div>
+
+
+
+
+
+
+ 
 
   
 
