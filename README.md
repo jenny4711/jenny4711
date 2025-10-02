@@ -6,7 +6,7 @@
   <h3>Email:jjenny4711@gmail.com</h3>
 </div>
 
-<h2>My Skills</2>
+<h1>My Skills</h1>
 
 </br>
 <div>
@@ -18,16 +18,56 @@
    <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
   </div>
   
-<h2>My Project</h2>
+<h1>My Project</h1>
 
 <div>
-  <h2>Habbits</h2>
+  <h2>Title:Habbits</h2>
     <img width='70%' src="https://github.com/jenny4711/jenny4711/blob/main/gitGrPic.png"/>
    <h3>Tech:   <img src="https://img.shields.io/badge/-swiftui-F05032?style=for-the-badge&logo=swift&logoColor=ffffff"/>
    <h3>Go to AppStore:https://apps.apple.com/us/app/daymoji-emoji-journal/id6714449611</h3>
+<br/>
+
+Small daily habits can change your life. **Habbitz** helps you create new habits and achieve daily goals with a clear, delightful experience.
+
+
+## ✨ Key Features
+
+### Intuitive Habit Management
+- Express habits with **emojis**
+- Categorize with **color tags**
+- **One-tap** to mark completion
+
+### Visual Completion Records
+- **Grid-style** tracking you can scan at a glance
+- See **daily progress** and **long-term streaks**
+
+### Personalized Settings
+- Toggle **completion count** and **streak** display
+- Choose from **custom color themes**
+
+### Smart Date Management
+- **Automatic date** calculations
+- Progress based on **start date**
+- **Streaks** update automatically
+
+### Smart Reminders *(NEW)*
+- **Custom reminder times** to build consistency
+- **Repeating schedules** by day & time
+- Gentle nudges to **restart** when you miss a day
+
+### Beautiful Dark Theme
+- Eye-friendly **dark mode**
+- Clean, modern UI with intuitive interactions
+
+### Science of Habit Formation
+- **Motivation** through streaks
+- **Satisfaction** through visual feedback
+- Turn **small daily changes** into big results
+
+   
   
 </div>
-
+<br/>
 
  <div>
  <h2>Title:Daymoji</h2>
