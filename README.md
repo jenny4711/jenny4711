@@ -24,7 +24,7 @@
   <h2>Title:Habbits</h2>
     <img width='70%' src="https://github.com/jenny4711/jenny4711/blob/main/gitGrPic.png"/>
    <h3>Tech:   <img src="https://img.shields.io/badge/-swiftui-F05032?style=for-the-badge&logo=swift&logoColor=ffffff"/>
-   <h3>Go to AppStore:https://apps.apple.com/us/app/daymoji-emoji-journal/id6714449611</h3>
+   <h3>Go to AppStore:https://apps.apple.com/us/app/habbits/id6746504069</h3>
 <br/>
 
 Small daily habits can change your life. **Habbitz** helps you create new habits and achieve daily goals with a clear, delightful experience.
