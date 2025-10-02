@@ -20,6 +20,15 @@
   
 <h2>My Project</h2>
 
+<div>
+  <h2>Habbits</h2>
+    <img width='70%' src="https://github.com/jenny4711/jenny4711/blob/main/gitGrPic.png"/>
+   <h3>Tech:   <img src="https://img.shields.io/badge/-swiftui-F05032?style=for-the-badge&logo=swift&logoColor=ffffff"/>
+   <h3>Go to AppStore:https://apps.apple.com/us/app/daymoji-emoji-journal/id6714449611</h3>
+  
+</div>
+
+
  <div>
  <h2>Title:Daymoji</h2>
   <h3>Go to AppStore:https://apps.apple.com/us/app/daymoji-emoji-journal/id6714449611</h3>
@@ -34,6 +43,8 @@
     
   <img width='70%' src="https://github.com/jenny4711/meta_ft/blob/main/appstore2.png?raw=true"/>
   </div>
+
+
 
 
 
